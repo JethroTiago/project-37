@@ -2,8 +2,8 @@
 
 :root {
     --font-family: 'Itim', cursive;
-    --bg-color: #9EA1D4;
-    --primary-color: #F1F7B5;
+    --bg-color: #20262E;
+    --primary-color: #E9E8E8;
 }
 
 body {
@@ -16,4 +16,27 @@ body {
     align-items: center;
     justify-content: center;
     text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h3 {
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+
+.message {
+    font-size: 1em;
+    margin-top: 30px;
+}
+
+.box {
+    border: 2px solid var(--primary-color);
+    display: inline-block;
+    font-size: 3em;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
 }
