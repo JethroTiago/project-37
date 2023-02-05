@@ -6,7 +6,7 @@ Jogo de adivinhação que funciona por comandos de voz, desenvolvido para aperfe
 
 ### Deploy:
 
---soon--
+https://secret-number-mu.vercel.app/
 
 ### Project View / Visualização do Projeto:
 
