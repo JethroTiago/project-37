@@ -39,3 +39,9 @@ function invalidGuess(number) {
 function greaterOrLessGuess(number) {
     return number > highestValue || number < lowerValue
 }
+
+document.body.addEventListener('click', e => {
+    if (e.target.id == 'restart') {
+        window.location.reload();
+    }
+});
