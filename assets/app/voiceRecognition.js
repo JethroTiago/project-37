@@ -20,3 +20,5 @@ function displayGuessOnScreen(guess) {
         <span class="box">${guess}</span>
     `
 }
+
+recognition.addEventListener('end', () => recognition.start());

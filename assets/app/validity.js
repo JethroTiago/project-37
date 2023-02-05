@@ -17,6 +17,8 @@ function checksGuessValidity(chute) {
         document.body.innerHTML = `
             <h2>You won!</h2>
             <h3>The secret number was ${secretNumber}!!!</h3>
+
+            <button id="restart" class="btn-restart">Restart</button>
         `;
     } else if (number > secretNumber) {
         guessElement.innerHTML += `
