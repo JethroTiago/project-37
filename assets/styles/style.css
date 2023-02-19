@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600&display=swap');;
 
 :root {
-    --font-family: 'Itim', cursive;
+    --font-family: 'Orbitron', sans-serif;
     --bg-color: #20262E;
     --primary-color: #E9E8E8;
 }
