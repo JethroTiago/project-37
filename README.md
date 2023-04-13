@@ -10,7 +10,7 @@ https://secret-number-mu.vercel.app/
 
 ### Project View / Visualização do Projeto:
 
---soon--
+![Em construção](https://user-images.githubusercontent.com/103612874/231320750-c1586b16-5114-4ca0-9cea-6d20e9d373fb.png)
 
 ## How it works / Como Funciona:
 
